@@ -1,4 +1,4 @@
-Project Instructions
+Project Instructions:
 
 Select a sleep apnea database (e.g. apnea-ecg database from Physionet) and read the dataset descriptions to identify the healthy and apnea subjects.
 
