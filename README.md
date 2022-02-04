@@ -5,8 +5,8 @@ Projects done as a part of the Omdena course 'Machine Learning for Smart health 
 
 [Data analysis of sleep apnea](https://github.com/lk-learner/ML-for-Smart-Health-Systems/tree/main/Project-1)
 
-Arrhythmia Classification using random forest
+[Arrhythmia Classification using random forest](https://github.com/lk-learner/ML-for-Smart-Health-Systems/tree/main/Project-2)
 
-Arrhythmia Classification using neural networks
+[Arrhythmia Classification using neural networks]()
 
-Cough Identification using MLP
+[Cough Identification using MLP]()
