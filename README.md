@@ -1,5 +1,5 @@
 # ML-for-Smart-Health-Systems
-
+I've completed a course from Omdena, Machine Learning for Smart Health Systems. It was quite an intensive and challenging course, which really allowed to me expand my horizons. I was able to work with many different types of data including tabular, image and audio data. It was truly fascinating to see how data is analyzed and utilized in the health industry!
 
 Projects done as a part of the Omdena course 'Machine Learning for Smart health systems':
 
