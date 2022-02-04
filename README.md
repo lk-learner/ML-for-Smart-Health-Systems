@@ -9,4 +9,4 @@ Projects done as a part of the Omdena course 'Machine Learning for Smart health 
 
 [Arrhythmia Classification using neural networks](https://github.com/lk-learner/ML-for-Smart-Health-Systems/tree/main/Project-3)
 
-[Cough Identification using MLP]()
+[Cough Identification using MLP](https://github.com/lk-learner/ML-for-Smart-Health-Systems/tree/main/Project-4)
