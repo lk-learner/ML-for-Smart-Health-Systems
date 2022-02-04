@@ -3,7 +3,7 @@ This repo have all the notebooks that I have worked on during ML for smart healt
 
 Projects done as a part of the Omdena course 'Machine Learning for Smart health systems':
 
-Data analysis of sleep apnea
+(Data analysis of sleep apnea)[https://github.com/lk-learner/ML-for-Smart-Health-Systems/tree/main/Project-1]
 
 Arrhythmia Classification using random forest
 
